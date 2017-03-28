@@ -1,0 +1,37 @@
+#Ignore the following files and folders:
+*target*
+*.jar
+*.war
+*.ear
+*.class
+*.pdf
+*.
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+.idea
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# Specific project git ignore
+resources/**
+resources/**/*
+_utilitarios/**
+_utilitarios/**/*
